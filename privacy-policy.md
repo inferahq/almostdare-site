@@ -1,6 +1,6 @@
 # AlmostDare privacy policy
 
-Effective date: the day this page is published (the owner fills it in).
+Effective date: November 13, 2026.
 
 AlmostDare is made by Infera. It puts a short challenge in front of the apps you choose. This policy explains what AlmostDare knows, where it keeps it, and how you stay in control.
 
